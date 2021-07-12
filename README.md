@@ -12,13 +12,13 @@ You can see how it looks by running the code, or by looking at these screenshots
 The first time I wrote this project, I did it in a Jupyter Notebook (.ipynb), but I have also rewrote it in plain Python (.py) for anyone that do not use Jupyter.
 
 If you are using the Jupyter version, you will need to install these packages:
-'''
+```
 pip install plotly
 pip install pandas
 pip install numpy
 pip install jupyter-dash
 pip install folium
 pip install dash-bootstrap-components
-'''
+```
 
 If you are using the Python version, install the same packages, except use 'dash' instead of 'jupyter-dash'.
