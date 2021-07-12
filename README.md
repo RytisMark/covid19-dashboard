@@ -21,4 +21,12 @@ pip install folium
 pip install dash-bootstrap-components
 ```
 
-If you are using the Python version, install the same packages, except use 'dash' instead of 'jupyter-dash'.
+If you are using the Python version, install the same packages, except use
+```
+pip install dash
+```
+instead of
+```
+pip install jupyter-dash
+```
+.
