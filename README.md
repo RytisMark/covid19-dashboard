@@ -8,6 +8,8 @@ The dashboard displays tabs with total cases, total deaths, total recoveries and
 
 You can see how it looks by running the code, or by looking at these screenshots:
 
+![image-1](https://user-images.githubusercontent.com/39343969/125302868-0618ea00-e335-11eb-8541-d4cae6ad0016.png)
+![image-2](https://user-images.githubusercontent.com/39343969/125302885-0a450780-e335-11eb-9b27-da779b68f991.png)
 
 The first time I wrote this project, I did it in a Jupyter Notebook (.ipynb), but I have also rewrote it in plain Python (.py) for anyone that do not use Jupyter.
 
